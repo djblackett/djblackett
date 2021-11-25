@@ -6,10 +6,9 @@ I've been learning Java and the Spring framework. I've been building projects in
 As of now (Nov 2021), I'm digging more into web development so I can build UIs that interface with my backend apps. Java has taken a bit of a back seat to this for the moment, but the goal is to integrate them. 
 
 
-I am currently a content writer for JetBrains Academy. 
+I am currently a content writer for JetBrains Academy/Hyperskill, where I write articles and practice exercises about Java. Most of my content so far has been about new features added in Java since Java 9. 
 
 I’m looking to collaborate on anything interesting. 
-- 📫 How to reach me ...
 
 <!---
 djblackett/djblackett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
