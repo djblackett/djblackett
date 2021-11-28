@@ -10,6 +10,17 @@ I am currently a content writer for JetBrains Academy/Hyperskill, where I write 
 
 I’m looking to collaborate on anything interesting. 
 
+
+I've written some educational articles on Java for JetBrains Academy (HyperSkill):
+Java Switch Expressions - https://hyperskill.org/learn/step/16036
+Reducing Boilerplate Code with Lombok - https://hyperskill.org/learn/step/13983
+Introduction to Java Modules - https://hyperskill.org/learn/step/15647
+Java Text Blocks - coming soon
+
+I also write humorous articles aimed at beginner programmers. 
+https://medium.com/@daveandrea
+
+
 <!---
 djblackett/djblackett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
