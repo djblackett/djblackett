@@ -3,10 +3,10 @@ I’m interested in creating back end systems, mostly in Java at the moment, but
 
 I've been learning Java and the Spring framework, building projects in order to get a sense of how software is put together at larger scales. My immediate goals are to explore the Spring framework in more depth and to integrate a front end onto the backend apps I have already written. 
 
-Update: Nov 2021
+**Update: Nov 2021**  
 I'm digging more into web development so I can build UIs that interface with my backend apps. Java has taken a bit of a back seat to this for the moment, but the goal is to integrate them. 
 
-Update Aug 2022:
+**Update Aug 2022:**  
 I've been doing a lot of web development with React, Redux, Styled Components, and some TypeScript, and am continuing to explore the React ecosystem more deeply. 
 My latest finished project is [Where in the World?](https://djblackett.github.io/rest-countries-api/), which is based on a professional design provided by [Frontend Mentor](https://frontendmentor.io)
 
