@@ -11,8 +11,8 @@ I've been doing a lot of web development with React, Redux, Styled Components, a
 My latest finished project is [Where in the World?](https://djblackett.github.io/rest-countries-api/), which is based on a professional design provided by [Frontend Mentor](https://frontendmentor.io) and is coded in TypeScript using the React framework.
 
 I’m looking to collaborate on anything interesting, especially if it involves education, music, or philosophy.  
-
-
+  
+  
 I was a content writer for JetBrains Academy/Hyperskill, where I wrote articles and practice exercises about Java. Most of my content so far has been about new features added in Java since Java 9. I'm temporarily taking a hiatus from this due to the war in Ukraine. 
 - [Java Switch Expressions](https://hyperskill.org/learn/step/16036)
 - [Reducing Boilerplate Code with Lombok](https://hyperskill.org/learn/step/13983)
