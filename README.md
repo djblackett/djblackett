@@ -8,7 +8,7 @@ I'm digging more into web development so I can build UIs that interface with my 
 
 **Update Aug 2022:**  
 I've been doing a lot of web development with React, Redux, Styled Components, and some TypeScript, and am continuing to explore the React ecosystem more deeply. 
-My latest finished project is [Where in the World?](https://djblackett.github.io/rest-countries-api/), which is based on a professional design provided by [Frontend Mentor](https://frontendmentor.io)
+My latest finished project is [Where in the World?](https://djblackett.github.io/rest-countries-api/), which is based on a professional design provided by [Frontend Mentor](https://frontendmentor.io) and is coded in TypeScript using the React framework.
 
 I’m looking to collaborate on anything interesting, especially if it involves education, music, or philosophy.
 
