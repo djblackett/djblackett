@@ -17,7 +17,7 @@ I've written some educational articles on Java for JetBrains Academy (HyperSkill
 - [Introduction to Java Modules](https://hyperskill.org/learn/step/15647)
 - [Java Text Blocks](https://hyperskill.org/learn/step/17316)
 
-<br>
+
 I also write humorous articles aimed at beginner programmers.
 - [Why JavaScript Is So Hard For Beginners](https://medium.com/@daveandrea/why-javascript-is-so-hard-for-beginners-b86eb818c4d7)
 - [Why Is Java So Dumb?](https://medium.com/@daveandrea/why-is-java-so-dumb-1990b9ac77c4)
